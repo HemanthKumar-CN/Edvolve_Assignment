@@ -25,7 +25,7 @@ The search functionality in the app, allows us to search as per the issue name, 
 
 ## Screenshots
 
-`![issues Table](https://i.ibb.co/3dRM60R/Screenshot-208.png)`
+![issues Table](https://i.ibb.co/3dRM60R/Screenshot-208.png)
 
 <!-- Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema) -->
 
